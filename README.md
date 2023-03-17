@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I'm [Your Name], a [Your Role/Profession] based in [Your Location]. Welcome to my GitHub profile!
+I'm Svyatoslav, a Front-end Developer based in United States. Welcome to my GitHub profile!
 
 ## 🔭 Current Projects
 
