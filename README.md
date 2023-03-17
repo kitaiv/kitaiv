@@ -2,36 +2,30 @@
 
 I'm Svyatoslav, a Front-end Developer based in United States. Welcome to my GitHub profile!
 
-## 🔭 Current Projects
-
-Here are some of the projects I'm currently working on:
-
-- [Project Name 1](link to repository): Short description of the project
-- [Project Name 2](link to repository): Short description of the project
-- [Project Name 3](link to repository): Short description of the project
-
 ## 🌟 Featured Repositories
 
 These are some of my most popular repositories:
 
-- [Repository Name 1](link to repository): Short description of the project
-- [Repository Name 2](link to repository): Short description of the project
-- [Repository Name 3](link to repository): Short description of the project
+- [Gamereqs](https://github.com/kitaiv/gamereqs): Gamereqs is a web application built using ReactJS and styled using Material UI. The app provides a platform for gamers to search and discover new games based on their preferences. The search functionality allows users to filter games by genre, platform, release date, and rating. Gamereqs also features a recommendation system that generates personalized game suggestions based on the user's previous searches and preferences.
+- [To-do app](https://github.com/kitaiv/todo-app): To-do app is a simple and efficient web application built using ReactJS and TypeScript. The user interface is designed using React Bootstrap, making it intuitive and user-friendly. With this app, users can easily create and manage their to-do lists, set deadlines, and mark tasks as completed. 
+- [Volumedeck](https://github.com/kitaiv/volumedeck): volumedeck is a Chrome extension built using React, TypeScript, and Webpack. The extension provides users with a customizable volume control interface that can be accessed from anywhere on the web. The interface includes a slider that allows users to adjust the volume of their device, as well as individual volume controls for specific tabs or applications. volumedeck is designed to be user-friendly and intuitive, with a simple and modern interface. With volumedeck, users can easily manage their device's volume without having to switch between tabs or applications.
 
 ## 📚 Skills
 
 These are some of the programming languages, frameworks, and tools I'm familiar with:
 
-- Programming languages: [Language 1], [Language 2], [Language 3]
-- Frameworks: [Framework 1], [Framework 2], [Framework 3]
-- Tools: [Tool 1], [Tool 2], [Tool 3]
+- Programming language: JavaScript
+- Frameworks: ReactJS
+- Tools: Git, npm, GraphQL
+- UI Libraries: Material UI, Tailwind UI, Ant Design, React Bootstrap 
 
 ## 📫 How to reach me
 
 If you'd like to get in touch with me, you can reach me at:
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Profile]
+- Email: svlawd@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/svyatoslavkurka/)
+- [Twitter](https://twitter.com/svyatos_dev)
+- [All Socials](bio.link/sviatosl0o)
 
 Thanks for stopping by!
