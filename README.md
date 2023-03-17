@@ -14,10 +14,7 @@ These are some of my most popular repositories:
 
 These are some of the programming languages, frameworks, and tools I'm familiar with:
 
-- Programming language: JavaScript
-- Frameworks: ReactJS
-- Tools: Git, npm, GraphQL
-- UI Libraries: Material UI, Tailwind UI, Ant Design, React Bootstrap 
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,graphql,git,materialui,tailwind,bootstrap) 
 
 ## 📫 How to reach me
 
@@ -26,6 +23,6 @@ If you'd like to get in touch with me, you can reach me at:
 - Email: svlawd@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/svyatoslavkurka/)
 - [Twitter](https://twitter.com/svyatos_dev)
-- [All Socials](https://bio.link/sviatosl0o)
+- [All Socials](bio.link/sviatosl0o)
 
 Thanks for stopping by!
