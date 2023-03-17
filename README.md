@@ -26,6 +26,6 @@ If you'd like to get in touch with me, you can reach me at:
 - Email: svlawd@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/svyatoslavkurka/)
 - [Twitter](https://twitter.com/svyatos_dev)
-- [All Socials](bio.link/sviatosl0o)
+- [All Socials](https://bio.link/sviatosl0o)
 
 Thanks for stopping by!
