@@ -14,7 +14,7 @@ These are some of my most popular repositories:
 
 These are some of the programming languages, frameworks, and tools I'm familiar with:
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,redux,graphql,git,materialui,tailwind,bootstrap,figma,babel,bootstrap,docker,firebase,github,gitlab,jquery,nodejs,npm,php,postman,sass,stackoverflow,sublime,ts,vscode,webstorm,webpack,yarn,idea,tailwind) 
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,redux,graphql,git,materialui,tailwind,bootstrap,figma,babel,bootstrap,docker,firebase,github,gitlab,jquery,nodejs,npm,php,postman,sass,stackoverflow,sublime,ts,vscode,webstorm,webpack,yarn,idea) 
 
 ## 📫 How to reach me
 
