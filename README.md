@@ -20,7 +20,7 @@ These are some of the programming languages, frameworks, and tools I'm familiar 
 
 If you'd like to get in touch with me, you can reach me at:
 
-- Email: svlawd@gmail.com
+- Email: s_kurka@icloud.com
 - [LinkedIn](https://www.linkedin.com/in/svyatoslavkurka/)
 - [Twitter](https://twitter.com/svyatos_dev)
 - [All Socials](bio.link/sviatosl0o)
